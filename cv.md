@@ -1,5 +1,5 @@
 # Curriculum vitae
----
+
 1. **GREGORY SIDORYN**
 ---
 2. **Contacts:**
