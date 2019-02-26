@@ -46,3 +46,20 @@ Since I graduated college and than university in 2013 I changed couple of works,
  * [Lesson23-Maps](https://grerin.github.io/grerin.github.io/Lesson23%20-%20GoogleMaps/Googlemap.html);
  * [Lesson24 - Forms](https://grerin.github.io/grerin.github.io/Lesson24%20-%20Forms/Forms.html).
 ---
+7. **Education:**
+
+  a) selfaducation since June 2018;
+ 
+  b) "Академия вёрстки" courses: [link to my repository with tasks](https://github.com/GreRin/grerin.github.io);
+ 
+  c) Codeacademy coursese;
+  
+---
+8. **English**
+|||||
+
+| English courses|Level|Date|Certificate|
+| ------------- |:-------------:|:-------------:|:-------------:|
+| Stream Line| B1|2011-2012|-|
+| Enternational House|B2|2011-2014|0006/14|
+---
