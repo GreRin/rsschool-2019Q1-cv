@@ -1,9 +1,9 @@
 
-.container1, .container2 {
+.container1, .container2, .container3, .container4 {
 	display: inline-flex;
 	justify-content: space-between;
 	width: 1024px;
-	border: 1px solid red;
+	/* border: 1px solid red; */
 	padding: 0 30px;
 	font-family: 'Lato', sans-serif;
 }
@@ -22,17 +22,15 @@ hr {
 	flex-direction: column;
 	justify-content: left;
 	align-items: stretch;
-	border: 1px solid red;	
 }
 .col1 h2:first-child {
 	margin-top: 0px;
 }
 .col1 h2 {
-	margin-top: 30px;
+	margin-top: 40px;
 }
 .col2 {
 	display: flex;
-	border: 1px solid red;
 }
 h1 {
 	margin: 10px 0;
@@ -46,6 +44,30 @@ img {
 	text-align: right;
 }
 /* Container2 */
-.container2 {
+.container2, .container3, .container4 {
 	flex-direction: column;
 }
+/* Container3 */
+.container3  table{
+	width: 300px;
+}
+.container3  td, thead{
+	border: 2px solid rgb(204, 202, 202);
+	text-align: center;
+	width: 100px;
+}
+.container3 tr:nth-child(2n) {
+	background: rgb(241, 241, 241);
+ }
+ .container3 .coltable1 {
+	padding-left: 10px;
+	text-align: left;
+ }
+ /* Container4 */
+ .container4 a{
+	text-decoration: none;
+	color: black;
+ }
+ .container4 a:hover{
+	color: rgb(116, 116, 116);
+ }
