@@ -23,7 +23,7 @@
 		padding: 0 30px;
 		font-family: 'Lato', sans-serif;
 	}
-	.container1, .container2, .container3, .container4, .container5 {
+	.container1, .container2, .container3, .container4, .container5, .container6 {
 		display: inline-flex;
 		justify-content: space-between;
 		width: 1024px;
@@ -96,6 +96,27 @@
 	.container5 li{
 		list-style-type: none;
 		margin-left: -20px;
+	}
+	 /* Container6 */
+	.container6  table{
+		width: 600px;
+	}
+	.container6  td, thead{
+		border: 2px solid rgb(204, 202, 202);
+		text-align: center;
+		width: 200px;
+		padding: 5px;
+	}
+	.container6 tr:nth-child(2n) {
+		background: rgb(241, 241, 241);
+	}
+	.coltable1_decor ul{
+		position: relative;
+		padding: 0;
+	}
+	.coltable1_decor li{
+		position: relative;
+		list-style-type: none;
 	}
 </style>
 </head>
@@ -179,6 +200,28 @@
 	</div>
 	<hr>
 	<div class="container6">
+		<h2>8. English</h2>
+		<table>
+			<thead>
+					<tr><td>English courses</td><td>Level</td><td>Date</td><td>Certificte</td></tr>
+				</thead>
+				<tbody></tbody>
+						<tr class="row6">
+							<td class="coltable1_decor">Stream Line</td>
+							<td>B1</td>
+							<td>2011-2012</td>
+							<td>-</td>
+						</tr>
+						<tr class="row6">
+							<td class="coltable1_decor">Enternational House</td>
+							<td>B2</td>
+							<td>2011-2014</td>
+							<td>0006/14</td>
+						</tr>
+				</tbody>
+		</table>
+	</div>
+	<hr>
 </main>
 </body>
 </html>
