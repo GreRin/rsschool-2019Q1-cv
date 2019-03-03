@@ -52,7 +52,7 @@ Since I graduated college and than university in 2013 I changed couple of works,
  
   b) "Академия вёрстки" courses: [link to my repository with tasks](https://github.com/GreRin/grerin.github.io);
  
-  c) Codeacademy coursese;
+  c) Codeacademy courses;
   
 ---
 8. **English**
