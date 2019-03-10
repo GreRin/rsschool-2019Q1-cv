@@ -16,14 +16,18 @@
   <script src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js'></script>
   <![endif]-->
   <style>
-   .container0 {
+    .wrapper-content {
+		   max-width: 1024px;
+		   margin: 0 auto;
+	   }
+    .container0 {
      display: inline-flex;
      justify-content: center;
      width: 1024px;
      padding: 0 30px;
      font-family: 'Lato', sans-serif;
     }
-   .container1, .container2, .container3, .container4, .container5, .container6 {
+    .container1, .container2, .container3, .container4, .container5, .container6 {
      display: inline-flex;
      justify-content: space-between;
      width: 1024px;
@@ -45,33 +49,33 @@
      flex-direction: column;
      justify-content: left;
      align-items: stretch;
-     }
-     .col1 h2:first-child {
-      margin-top: 0px;
-     }
-     .col1 h2 {
-      margin-top: 30px;
-     }
-     .col2 {
-      display: flex;
-      justify-content: flex-end;
-     }
-     .container0 h1 {
-      margin: 10px 0;
-      justify-content: center;
-     }
-     img {
-      width: 50%;
-      height: 90%;
-     }
-     /* Container2 */
-     .container2, .container3, .container4, .container5, .container6 {
-      flex-direction: column;
-     }
-     /* Container3 */
-     .container3  table {
-      width: 300px;
-     }
+    }
+    .col1 h2:first-child {
+     margin-top: 0px;
+    }
+    .col1 h2 {
+     margin-top: 30px;
+    }
+    .col2 {
+     display: flex;
+     justify-content: flex-end;
+    }
+    .container0 h1 {
+     margin: 10px 0;
+     justify-content: center;
+    }
+    img {
+     width: 50%;
+     height: 90%;
+    }
+    /* Container2 */
+    .container2, .container3, .container4, .container5, .container6 {
+     flex-direction: column;
+    }
+    /* Container3 */
+    .container3  table {
+     width: 300px;
+    }
     .container3  td, thead {
      border: 2px solid rgb(204, 202, 202);
      text-align: center;
@@ -120,7 +124,7 @@
     }
    </style>
  </head>
- <body>
+ <body class="wrapper-content">
   <main class='main'>
    <div class="container0">
     <h1>Curriculum vitae</h1>
