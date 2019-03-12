@@ -1,3 +1,3 @@
 # rsschool-2019Q1-cv
 # Ryhor Sidoryn
-* [HTML & CSS CV: https://github.com/GreRin/rsschool-2019Q1-cv/blob/gh-pages/index.html](https://grerin.github.io/rsschool-2019Q1-cv/cv)
+* [HTML & CSS CV https://grerin.github.io/rsschool-2019Q1-cv/cv](https://grerin.github.io/rsschool-2019Q1-cv/cv)
